@@ -1,6 +1,6 @@
 # Peer Assessment 1 - Template
 Melanie Maggard  
-Tuesday, August 18, 2015  
+Wednesday, December 9, 2015  
 
 ## Data Description
 The data for this assignment was downloaded from the course web site and includes the following variables in 17,568 observations:
